@@ -1,0 +1,5 @@
+SortExample-WordList-*
+.build
+*~
+nytprof*
+.DS_Store
